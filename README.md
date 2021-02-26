@@ -1,7 +1,7 @@
 ![Screenshot](aimbooster.png)
 # Info
 
-Use this Hack to at [aimbooster](http://www.aimbooster.com/).
+Use this Hack at [aimbooster](http://www.aimbooster.com/).
 
 ## Installation
 
