@@ -4,9 +4,9 @@ import keyboard
 
 
 while True:
-    if keyboard.is_pressed("f9"):
+    if keyboard.is_pressed("o"):
         while True:
-            if keyboard.is_pressed("f10"):
+            if keyboard.is_pressed("i"):
                 print("Stopped")
                 break
 
